@@ -1,4 +1,4 @@
-# jdbc-recuperar-dados
+# JDBC-recuperar-dados
 Utilizando o JDBC, é possível recuperar dados de um banco de dados relacional de forma eficiente 
 e flexível, permitindo a obtenção das informações necessárias para análise ou exibição no aplicativo.
 ## Interfaces utilizadas: <br>
